@@ -11,4 +11,4 @@ div.textContent=data1.value
 
     });
 };
-joke.addEventListener("click",fu)
+joke.addEventListener("click", () => fu())
